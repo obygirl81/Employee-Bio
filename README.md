@@ -2,6 +2,8 @@
 
 This is a basic employee bio page developed using:
 * HTML5
+* CSS3
+
 
 ### Link
 Here is the link to check out this page: https://obygirl81.github.io/Employee-Bio/
