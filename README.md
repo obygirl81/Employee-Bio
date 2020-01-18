@@ -4,7 +4,7 @@ This is a basic employee bio page developed using:
 * HTML5
 
 ### Link
-Here is the link to check out this page: https://github.com/obygirl81/Employee-Bio
+Here is the link to check out this page: https://obygirl81.github.io/Employee-Bio/
 
 ### Screenshot
 ##### Homepage
